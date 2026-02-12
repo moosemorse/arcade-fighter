@@ -3,6 +3,7 @@
 A 2D arcade-style fighting game built in **C** using the **SDL2** library.
 
 ![Arcade Fighter Gameplay](assets/gameplay-screenshot.png)
+
 *Current build: Featuring dynamic hitboxes (red/green) and a moody, atmospheric battlefield.*
 
 ---
@@ -34,7 +35,9 @@ So, when the app is run in WSL2, the code is in Linux but the GPU is in windows 
 
 ### Hardware (Custom controllers)
 The game wasn't just built for keyboards, it was actually designed to be played on a Raspberry Pi (RPi) using custom-built arcade hardware.
+
 ![Controller](assets/controller.jpeg)
+
 The physical controllers were constructed using:
 - Arcade buttons and joysticks (bought from ebay)
 - Recycled boxes and wiring

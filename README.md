@@ -52,6 +52,7 @@ A rough idea of how the pipeline works is the following:
 
 ### Project Status & TODOs
 As I mentioned above, due to some problems recovering the newest version of this project there are some features missing. In the meantime I will leave these as todo's and note down other things I could do if I get around to it:
+- **Remove debugging hit boxes from build**
 - **Game over loop**: Re-implement the end of game screen and the "Press Start to Replay" logic
 - **Audio**: Fully restore the SDL_Mixer implementation to bring back the background music and combat sound effects
 - **Refactoring**
